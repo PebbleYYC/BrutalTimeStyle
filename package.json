@@ -16,10 +16,7 @@
     "sdkVersion": "3",
     "enableMultiJS": true,
     "targetPlatforms": [
-      "aplite",
       "basalt",
-      "chalk",
-      "diorite",
       "emery"
     ],
     "capabilities": [
@@ -88,8 +85,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -99,8 +94,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -110,8 +103,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -121,8 +112,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -132,8 +121,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -143,8 +130,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -154,8 +139,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -165,8 +148,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -176,8 +157,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -187,8 +166,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -198,8 +175,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -209,8 +184,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -220,8 +193,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -231,8 +202,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -242,8 +211,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -253,8 +220,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -264,8 +229,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -275,8 +238,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -286,8 +247,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -297,8 +256,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -308,8 +265,6 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
           ]
         },
@@ -319,249 +274,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
-            "chalk",
-            "diorite",
             "emery"
-          ]
-        },
-        {
-          "file": "images/digit_leco_9.png",
-          "name": "CLOCK_DIGIT_LECO_9",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_leco_8.png",
-          "name": "CLOCK_DIGIT_LECO_8",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_leco_7.png",
-          "name": "CLOCK_DIGIT_LECO_7",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_leco_6.png",
-          "name": "CLOCK_DIGIT_LECO_6",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_leco_5.png",
-          "name": "CLOCK_DIGIT_LECO_5",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_leco_4.png",
-          "name": "CLOCK_DIGIT_LECO_4",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_leco_3.png",
-          "name": "CLOCK_DIGIT_LECO_3",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_leco_2.png",
-          "name": "CLOCK_DIGIT_LECO_2",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_leco_1.png",
-          "name": "CLOCK_DIGIT_LECO_1",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_leco_0.png",
-          "name": "CLOCK_DIGIT_LECO_0",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_9.png",
-          "name": "CLOCK_DIGIT_9",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_8.png",
-          "name": "CLOCK_DIGIT_8",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_7.png",
-          "name": "CLOCK_DIGIT_7",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_6.png",
-          "name": "CLOCK_DIGIT_6",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_5.png",
-          "name": "CLOCK_DIGIT_5",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_4.png",
-          "name": "CLOCK_DIGIT_4",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_3.png",
-          "name": "CLOCK_DIGIT_3",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_2.png",
-          "name": "CLOCK_DIGIT_2",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_1.png",
-          "name": "CLOCK_DIGIT_1",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_0.png",
-          "name": "CLOCK_DIGIT_0",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_bold_9.png",
-          "name": "CLOCK_DIGIT_BOLD_9",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_bold_8.png",
-          "name": "CLOCK_DIGIT_BOLD_8",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_bold_7.png",
-          "name": "CLOCK_DIGIT_BOLD_7",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_bold_6.png",
-          "name": "CLOCK_DIGIT_BOLD_6",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_bold_5.png",
-          "name": "CLOCK_DIGIT_BOLD_5",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_bold_4.png",
-          "name": "CLOCK_DIGIT_BOLD_4",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_bold_3.png",
-          "name": "CLOCK_DIGIT_BOLD_3",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_bold_2.png",
-          "name": "CLOCK_DIGIT_BOLD_2",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_bold_1.png",
-          "name": "CLOCK_DIGIT_BOLD_1",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
-          ]
-        },
-        {
-          "file": "images/digit_bold_0.png",
-          "name": "CLOCK_DIGIT_BOLD_0",
-          "type": "bitmap",
-          "targetPlatforms": [
-            "aplite"
           ]
         },
         {
